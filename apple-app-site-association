@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4Y47Q369N4.com.bmfw.xfnp",
+        "paths": [ "/app/*" ]
+      },
+      {
+        "appID": "4Y47Q369N4.com.bmfw.test",
+        "paths": [ "/path/*" ]
+      }
+    ]
+  }
+}
